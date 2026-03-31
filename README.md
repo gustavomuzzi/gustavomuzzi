@@ -5,21 +5,7 @@
 -->
 
 - 👨‍🏫 Professor de Matemática;
-- 📚 Atualmente, estou cursando Pós Graduação em Data Science pela IBMR;
-- 🧰 Conhecimentos em Analysys Systems Development | Python | SQL | HTML | Excel | JavaScrip 
-- 🥋 Hobby: Muay Thai e Jiu-Jitsu
+- 📚 Pós Graduado em Data Science pela IBMR;
+- 🧰 Desenvolvedor Backend | Cientista de Dados | Analista de Negócios | Python | SQL | Power BI 
+- 🥋 Hobby: Jiu-Jitsu
 
-<div align="center">
-  
-  <a href="https://github.com/gustavomuzzi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomuzzi&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-
-</div>
-
-
-<div align="center">
-  <a href="https://instagram.com/profgustavomuzzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:prof.gustavomuzzi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavomuzzi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
