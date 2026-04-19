@@ -6,6 +6,6 @@
 
 - 👨‍🏫 Professor de Matemática;
 - 📚 Pós Graduado em Data Science pela IBMR;
-- 🧰 Desenvolvedor Backend | Cientista de Dados | Analista de Negócios | Python | SQL | Power BI 
+- 🧰 Matemático | Cientista de Dados | Analista de Negócios | Python | Power BI 
 - 🥋 Hobby: Jiu-Jitsu
 
